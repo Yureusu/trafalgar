@@ -174,6 +174,9 @@ body{
     .footer{
         padding-block: 12px;
     }
+    #displa-wrapper{
+        padding-inline: 24px;
+    }
     #display-text{
         margin-inline: 12px;
         padding-inline: 12px;
